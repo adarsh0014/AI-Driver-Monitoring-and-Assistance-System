@@ -1,0 +1,7 @@
+opencv-python==4.9.0.80
+dlib
+numpy==1.24.3
+PyQt5==5.15.10
+imutils==0.5.4
+scipy==1.10.1
+matplotlib==3.7.1
